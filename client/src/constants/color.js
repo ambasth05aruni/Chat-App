@@ -1,0 +1,6 @@
+export const orange ="#35bcbf"
+export const grayColor = "rgba(247,247,247,1)"
+export const lightBlue = "#2694ab"
+export const mattBlack = "#1c1c1c"
+export const bgGradient = "linear-gradient(to right,rgba(173, 83, 137, 1), rgba(60, 16, 83, 1))"
+export const bg ="linear-gradient(to right, #85dce1, #a9e8ee, #cbeef2)"

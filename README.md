@@ -139,4 +139,4 @@ We welcome contributions! Please fork the repository and submit pull requests.
 This project is licensed under the MIT License.
 
 ## Contact
-For questions or feedback, please contact [Your Name] at [your-email@example.com].
+For questions or feedback, please contact me at ambasthaarunima0512@gmail.com.
